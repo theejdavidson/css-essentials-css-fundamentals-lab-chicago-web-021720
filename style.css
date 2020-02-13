@@ -36,3 +36,8 @@ figcaption {
   float: left;
   width: 25%;
 }
+
+#details a {
+    background-color: transparent;
+}
+}
